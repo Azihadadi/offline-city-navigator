@@ -1,7 +1,10 @@
 # Software_Engineering_Project
 little google map without internet connection
+
 before downloading and using the source code try to read the report attached to the code.
+
 the report will give you also instruction on how to compile and use the code.
+
 if you want to use this code, I strongly suggest to have a look at OpenCV library and related tutorial first.
 OPENC CV official site is: https://opencv.org/
 you can find plenty of tutorial in this link: https://docs.opencv.org/2.4/opencv_tutorials.pdf
