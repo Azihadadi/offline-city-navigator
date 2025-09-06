@@ -1,4 +1,4 @@
-# Software_Engineering_Project
+# Offline-City-Navigator
 little google map without internet connection
 
 before downloading and using the source code try to read the report attached to the code.
